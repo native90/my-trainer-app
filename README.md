@@ -1,3 +1,6 @@
+
+[Imagen de svetlanasokolova en Freepik](https://www.freepik.es/foto-gratis/colocar-mujer-rubia-sonrisa-perfecta-ropa-deportiva-elegante-mirando-camara-sosteniendo-botella-agua-sobre-pared-blanca-demuestra-musculos_16638184.htm#fromView=search&page=1&position=14&uuid=ffbb5799-8865-4a41-8af4-6567ccde6f19)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
